@@ -5,6 +5,7 @@
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>notatnik_net</RootNamespace>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>coding_computer_pc_screen_code_icon_193925.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
